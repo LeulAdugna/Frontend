@@ -1,1 +1,1 @@
-![heart-trail-animation](https://user-images.githubusercontent.com/59286318/192147965-b666cdd3-f78f-4c44-a08b-777f8afd7265.PNG)
+![heart-trail-animation](https://user-images.githubusercontent.com/59286318/192148282-32df20f8-6d53-481a-a80c-6b06b34d70f2.PNG)
