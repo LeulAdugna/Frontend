@@ -1,1 +1,1 @@
-# Html, css & java script templates
+# html, css & java script templates
